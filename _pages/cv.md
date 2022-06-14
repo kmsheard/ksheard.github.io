@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF copy of my CV can be found <i>[here].</i> (http://ksheard.github.io/files/Sheard_CV_2022.pdf)
+<i>A PDF copy of my CV can be found here.</i> (http://ksheard.github.io/files/Sheard_CV_2022.pdf)
 
 Education
 ======
