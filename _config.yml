@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kelsey M. Sheard"
+title                    : "Kelsey Sheard, Ph.D."
 title_separator          : "-"
-name                     : &name "Kelsey M. Sheard"
+name                     : &name "Kelsey Sheard, Ph.D."
 description              : &description "Hello world."
 url                      : https://ksheard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kelsey M. Sheard"
+  name             : "Kelsey Sheard, Ph.D."
   avatar           : "Kelsey.jpeg"
-  bio              : "Ph.D Candidate in Molecular and Cell Biology"
+  bio              : "Recent graduate in Molecular and Cell Biology"
   location         : "Bethesda, MD"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/ksheard"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
